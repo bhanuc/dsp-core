@@ -17,7 +17,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-use DreamFactory\Platform\Utility\Fabric;
 
 /**
  * web.php
@@ -28,6 +27,8 @@ use DreamFactory\Platform\Utility\Fabric;
  * Load up the database and common configurations between the web and background apps,
  * setting globals whilst at it.
  */
+require __DIR__ . '/constants.config.php';
+
 $_dbConfig = require( __DIR__ . '/database.config.php' );
 $_commonConfig = require( __DIR__ . '/common.config.php' );
 
