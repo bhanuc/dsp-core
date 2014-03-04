@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "32651b07d4964f2bff05cbfa6872ac48",
+    "hash": "df5d87a51d89b5b007879158bc9252dc",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -205,16 +205,16 @@
         },
         {
             "name": "dreamfactory/lib-php-common",
-            "version": "dev-develop",
+            "version": "1.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dreamfactorysoftware/lib-php-common.git",
-                "reference": "a6262832f73e6e2d8729df7b2c8d52cc32b08317"
+                "reference": "c13d150de206dc1cc72c2fecf22eeafbf40dcd43"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dreamfactorysoftware/lib-php-common/zipball/a6262832f73e6e2d8729df7b2c8d52cc32b08317",
-                "reference": "a6262832f73e6e2d8729df7b2c8d52cc32b08317",
+                "url": "https://api.github.com/repos/dreamfactorysoftware/lib-php-common/zipball/c13d150de206dc1cc72c2fecf22eeafbf40dcd43",
+                "reference": "c13d150de206dc1cc72c2fecf22eeafbf40dcd43",
                 "shasum": ""
             },
             "require": {
@@ -243,12 +243,12 @@
                 {
                     "name": "Jerry Ablan",
                     "email": "jerryablan@dreamfactory.com",
-                    "role": "Sr. Software Engineer"
+                    "role": "Lead Developer, server-side/client-side"
                 },
                 {
                     "name": "Lee Hicks",
                     "email": "leehicks@dreamfactory.com",
-                    "role": "Sr. Software Engineer"
+                    "role": "Lead Developer, server-side/client-side"
                 }
             ],
             "description": "DreamFactory Services Platform(tm) Common Components for PHP",
@@ -257,21 +257,21 @@
                 "dsp",
                 "dsp-core"
             ],
-            "time": "2014-02-27 16:19:50"
+            "time": "2014-02-27 16:19:22"
         },
         {
             "name": "dreamfactory/lib-php-common-platform",
-            "version": "dev-develop",
+            "version": "1.4.0",
             "target-dir": "DreamFactory/Platform",
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/dreamfactory/lib-php-common-platform.git",
-                "reference": "1853e4679a06f79be1e523069256c16b1300f2eb"
+                "reference": "502e837a7ae8c64d5f8d1530859570cf353bbb49"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/dreamfactory/lib-php-common-platform/get/1853e4679a06f79be1e523069256c16b1300f2eb.zip",
-                "reference": "1853e4679a06f79be1e523069256c16b1300f2eb",
+                "url": "https://bitbucket.org/dreamfactory/lib-php-common-platform/get/502e837a7ae8c64d5f8d1530859570cf353bbb49.zip",
+                "reference": "502e837a7ae8c64d5f8d1530859570cf353bbb49",
                 "shasum": ""
             },
             "require": {
@@ -334,20 +334,20 @@
                 "dsp",
                 "sdk"
             ],
-            "time": "2014-02-27 21:10:11"
+            "time": "2014-02-28 21:13:28"
         },
         {
             "name": "dreamfactory/lib-php-common-yii",
-            "version": "dev-develop",
+            "version": "1.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dreamfactorysoftware/lib-php-common-yii.git",
-                "reference": "ffc8ea1fbc9a2bfeff139296cddc340bc811082f"
+                "reference": "7069b1b5b327ff9577a21ef55e385bf90643b477"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dreamfactorysoftware/lib-php-common-yii/zipball/ffc8ea1fbc9a2bfeff139296cddc340bc811082f",
-                "reference": "ffc8ea1fbc9a2bfeff139296cddc340bc811082f",
+                "url": "https://api.github.com/repos/dreamfactorysoftware/lib-php-common-yii/zipball/7069b1b5b327ff9577a21ef55e385bf90643b477",
+                "reference": "7069b1b5b327ff9577a21ef55e385bf90643b477",
                 "shasum": ""
             },
             "require": {
@@ -405,7 +405,7 @@
                 "sdk",
                 "yii"
             ],
-            "time": "2014-02-27 20:22:34"
+            "time": "2014-02-27 20:22:25"
         },
         {
             "name": "dreamfactory/oasys",
@@ -547,12 +547,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "edbcaaa5d38267a499289da215d3a9702c65ab1f"
+                "reference": "dd3e6c0e3f0d5de9347fd9c9efb71597577c9a92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/edbcaaa5d38267a499289da215d3a9702c65ab1f",
-                "reference": "edbcaaa5d38267a499289da215d3a9702c65ab1f",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/dd3e6c0e3f0d5de9347fd9c9efb71597577c9a92",
+                "reference": "dd3e6c0e3f0d5de9347fd9c9efb71597577c9a92",
                 "shasum": ""
             },
             "require": {
@@ -631,7 +631,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2014-02-26 01:49:03"
+            "time": "2014-03-02 21:31:45"
         },
         {
             "name": "kisma/kisma",
@@ -1315,12 +1315,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/HttpFoundation.git",
-                "reference": "0fa4996401cf4e97e621357b6f6a9efa8eee678e"
+                "reference": "b4311cae687a331e939352b81e5a5c87b8f51a0b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/HttpFoundation/zipball/0fa4996401cf4e97e621357b6f6a9efa8eee678e",
-                "reference": "0fa4996401cf4e97e621357b6f6a9efa8eee678e",
+                "url": "https://api.github.com/repos/symfony/HttpFoundation/zipball/b4311cae687a331e939352b81e5a5c87b8f51a0b",
+                "reference": "b4311cae687a331e939352b81e5a5c87b8f51a0b",
                 "shasum": ""
             },
             "require": {
@@ -1358,7 +1358,7 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "http://symfony.com",
-            "time": "2014-02-18 15:41:30"
+            "time": "2014-03-03 12:53:01"
         }
     ],
     "packages-dev": [
@@ -1621,12 +1621,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-token-stream.git",
-                "reference": "292f4d5772dad5a12775be69f4a8dd663b20f103"
+                "reference": "ad4e1e23ae01b483c16f600ff1bebec184588e32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-token-stream/zipball/292f4d5772dad5a12775be69f4a8dd663b20f103",
-                "reference": "292f4d5772dad5a12775be69f4a8dd663b20f103",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-token-stream/zipball/ad4e1e23ae01b483c16f600ff1bebec184588e32",
+                "reference": "ad4e1e23ae01b483c16f600ff1bebec184588e32",
                 "shasum": ""
             },
             "require": {
@@ -1663,7 +1663,7 @@
             "keywords": [
                 "tokenizer"
             ],
-            "time": "2013-10-21 14:03:39"
+            "time": "2014-03-03 05:10:30"
         },
         {
             "name": "phpunit/phpunit",
@@ -1954,10 +1954,10 @@
     "minimum-stability": "dev",
     "stability-flags": {
         "kisma/kisma": 0,
-        "dreamfactory/lib-php-common": 20,
-        "dreamfactory/lib-php-common-yii": 20,
         "dreamfactory/oasys": 0,
-        "dreamfactory/lib-php-common-platform": 20,
+        "dreamfactory/lib-php-common": 0,
+        "dreamfactory/lib-php-common-yii": 0,
+        "dreamfactory/lib-php-common-platform": 0,
         "phpunit/phpunit": 0,
         "phpunit/dbunit": 0,
         "phpunit/phpunit-selenium": 0,

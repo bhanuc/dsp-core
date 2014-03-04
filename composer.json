@@ -49,6 +49,7 @@
 		"pear-pear.php.net/Mail_mimeDecode":    "*",
 		"pear-pear.php.net/Mail_Mime":          "*",
 		"kisma/kisma":                          "~0.2@stable",
+		"dreamfactory/oasys":                   "~0.4@stable",
 		"dreamfactory/yii":                     "=1.1.13",
 		"dreamfactory/oasys":                   "~0.4@stable",
 		"dreamfactory/lib-php-common":          "~1.4@stable",
